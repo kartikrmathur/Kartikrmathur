@@ -1,5 +1,4 @@
 # Hi there this is Kartik 👋
-![dev](https://user-images.githubusercontent.com/38400944/194717358-a4dfe085-5e45-4ab2-8ef5-b4d1b91b0e5e.gif)
 
 * 💙 I love developing and researching
 * 🧑‍🤝‍🧑 Looking for enviroment where I can learn and develop my skills
