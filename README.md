@@ -3,9 +3,7 @@
 
 * 💙 I love developing and researching
 * 🧑‍🤝‍🧑 Looking for enviroment where I can learn and develope my skills
-* 🍀 Curretly SDE at Reliance Jio 
-* 🌱 I’m currently learning Android Development 
-* ⛑️ Looking for help in COMPETITIVE CODING🥺
-* ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with
+* 🍀 Curretly SDE at Deloitte 
+* 🌱 I’m currently learning System Design Architecture 
+* ✨ My dream is to make the best game which people play and Enjoy alot !!!!
 * 📬 Reach me out on [Linkedin](https://www.linkedin.com/in/kartikrmathur/) 
-* 🐤 Fun Fact: Engineering Grad SDE but happy (Trying to be funny)
